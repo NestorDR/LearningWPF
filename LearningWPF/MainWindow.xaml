@@ -34,7 +34,7 @@
             </Menu.ItemsPanel>
             <MenuItem Header="_Home">
                 <MenuItem Header="_Hello World!" Tag="LearningWPF.UserControls.HelloWorld" Click="MenuItem_OnClick"/>
-                <MenuItem Header="_Panels" Tag="Panels" Click="MenuItem_OnClick"/>
+                <MenuItem Header="Using _styes" Tag="LearningWPF.UserControls.UsingStyles" Click="MenuItem_OnClick"/>
                 <Separator />
                 <MenuItem Header="E_xit" Tag="exit" Click="MenuItem_OnClick" />
             </MenuItem>

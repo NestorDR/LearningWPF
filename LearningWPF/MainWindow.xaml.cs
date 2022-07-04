@@ -82,7 +82,6 @@ namespace LearningWPF
             {
                 // Display a user control
                 LoadUserControl(cmd);
-
             }
             else
             {
